@@ -5,6 +5,11 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>learning-platform</title>
+    <style>
+     #one {
+      color:rbg(255,0,0);
+      }
+    </style>
     <link rel="stylesheet" href="style.css">
  </head>
  <body>
