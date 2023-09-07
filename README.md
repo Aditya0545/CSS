@@ -1,21 +1,15 @@
-# CSS
- <!DOCTYPE html>
+  <!DOCTYPE html>
  <html lang="en">
  <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>learning-platform</title>
-    <style>
-     #one {
-      color:rbg(255,0,0);
-      }
-    </style>
     <link rel="stylesheet" href="style.css">
  </head>
  <body>
     <header>ENGLISH LEARNERS PORTFOLIO</header><hr/>
     <main>
-        <h1 style="color:red;"> Welcome to English Learners </h1>
+        <h1 id="one"> Welcome to English Learners </h1>
         <p> English Learners group is a best learning platform on Telegram where you can explore, achieve, enhance much.I can say that if therre is any platform to learn english quickly and in a proper way so El plays most important role there. 
         moreover being an admin of EL I am preety sure that if you choose this platform ,you won't regret infact you will praise . </p>
         <h2 id="one"> About Session</h2>
@@ -37,7 +31,7 @@
         </div>
         <button> Press Here to join Group</button><br/>
         <br/>
-        <a href="https://youtube.com">Click me</a>
+        <a href="https://www.youtube.com/@English-learners">Click me</a>
     </main>
  </body>
  </html>
