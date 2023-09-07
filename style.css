@@ -1,0 +1,47 @@
+* {
+    font-style:italic;
+}
+#one {
+    color: red;
+    text-align: center;
+    font-weight: 400;
+}
+body {
+    background-color: #F1EDDE;
+}
+header {
+    color: blue;
+    text-align: center;
+    text-decoration: underline;
+    font-size: 45px;
+    text-transform: uppercase;
+}
+
+p {
+    color:darkred;
+    text-align: center;
+    line-height: 40px;
+    font-size: 25PX;
+    text-transform: capitalize;
+}
+#box {
+    background-color:skyblue;
+    color:blaCK;
+    line-height: 30PX;
+    font-size: 25PX;
+    text-transform: capitalize;
+}
+section {
+    color: red;
+}
+button {
+    height:400;
+    width: 10%;
+    background-color: PINK;
+}
+
+
+a {
+    color: blueviolet;
+    text-decoration: none;
+}
